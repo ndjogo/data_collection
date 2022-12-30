@@ -25,3 +25,4 @@ class Scrapedata():
 if __name__ == "__main__":
     scraperobject = Scrapedata("https://www.rottentomatoes.com/browse/movies_at_home/genres:horror?page=1") 
 
+
